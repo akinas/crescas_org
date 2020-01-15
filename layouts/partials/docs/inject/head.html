@@ -1,6 +1,100 @@
 
-<link rel="stylesheet" href="{{ $.Site.Language.LanguageName }}.css" />
+{{ if eq $.Site.Language.LanguageName "Hebrew" }}
+  <style>
+    body {
+    	direction: rtl;
+    }
 
+
+
+    @media screen and (max-width:57rem) {
+        .book-menu {
+            margin-right: -16rem;
+            font-size: 16px
+        }
+        .book-toc {
+            margin-left: -16rem;
+            font-size: 16px
+        }
+    }
+
+    .markdown blockquote {
+        margin: 1rem 0;
+        padding: .5rem 1rem .5rem .75rem;
+        border-right: .25rem solid #e9ecef;
+        border-radius: .15rem
+    }
+
+
+    aside nav ul ul {
+        padding-right: 1rem
+    }
+    .book-section-flat>ul {
+        padding-right: 0
+    }
+    .markdown ul,
+    .markdown ol {
+        padding-right: 2rem
+    }
+    .markdown dl dd {
+        margin-right: 2rem
+    }
+
+    .markdown .highlight table tr td:nth-child(2) pre {
+        margin: 0;
+        padding-right: 0
+    }
+
+    .book-hint.info {
+        border-right-color: #6bf;
+        background-color: rgba(102, 187, 255, .1)
+    }
+
+    .book-hint.warning {
+        border-right-color: #fd6;
+        background-color: rgba(255, 221, 102, .1)
+    }
+
+    .book-hint.danger {
+        border-right-color: #f66;
+        background-color: rgba(255, 102, 102, .1)
+    }
+
+
+
+
+
+    .book-brand img {
+        height: 1.5em;
+        width: auto;
+        vertical-align: middle;
+        margin-left: .5rem
+    }
+
+    .book-search .book-search-spinner {
+        position: absolute;
+        margin: .5rem;
+        left: 0;
+        top: 0;
+        width: 1rem;
+        height: 1rem;
+        border: 1px solid transparent;
+        border-top-color: #343a40;
+        border-radius: 50%;
+        animation: spin 1s ease infinite
+    }
+
+    .book-footer img {
+        height: 1em;
+        margin-left: .5rem
+    }
+
+    .markdown .highlight table tr td:nth-child(1) pre {
+        margin: 0;
+        padding-left: 0
+    }
+  </style>
+{{ end }}
 {{ "<!--" | safeHTML }}
 Daniel
 {{ "-->" | safeHTML }}
