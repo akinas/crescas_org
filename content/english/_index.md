@@ -1,79 +1,45 @@
 ---
-title: Введение
+title: Ohr haShem
 type: docs
 ---
 
-# Стартовая страница на русском языке
+# _Light of the Lord_ by Rabbi Hasdai Crescas
+
+
+An edition based on the Florence manuscript with an introduction, textual notes, appendices, and an index
+
+by Daniel Levin
 
 {{< columns >}}
-## Astris ipse furtiva
 
-Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut
-olivae sensit **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
-modo arsit? Utinam rapta fiducia valuere litora _adicit cursu_, ad facies
+![Front cover](../IMG_5166-scaled.jpg)
+
+<--->
+![Pages](../IMG_5154-scaled.jpg)
+<--->
+
+![Back cover](../IMG_5167-scaled.jpg)
+
+{{< /columns >}}
+
+{{< columns >}}
+
+![Pages](../IMG_5151-scaled.jpg)
 
 <--->
 
-## Suis quot vota
+![Endpaper](../IMG_5150-scaled.jpg)
 
-Ea _furtique_ risere fratres edidit terrae magis. Colla tam mihi tenebat:
-miseram excita suadent es pecudes iam. Concilio _quam_ velatus posset ait quod
-nunc! Fragosis suae dextra geruntur functus vulgata.
 {{< /columns >}}
 
 
-## Tempora nisi nunc
+## Where to buy?
+{{< hint info >}}
+[Otzar haSeforim website (Hebrew)](http://www.sefer.org.il/Product/36163214/%D7%90%D7%95%D7%A8-%D7%94%D7%A9%D7%9D---%D7%A8%D7%91%D7%99-%D7%97%D7%A1%D7%93%D7%90%D7%99-%D7%A7%D7%A8%D7%A7%D7%A9)
+{{< /hint >}}
+{{< hint info >}}
+[J Biegeleisen Seforim Store in Brooklyn, NY](https://www.google.com/maps/place/J+Biegeleisen+Co./@40.633463,-73.982577,15z/data=!4m5!3m4!1s0x0:0x194c7cd3e0df72dc!8m2!3d40.633463!4d-73.982577)
+{{< /hint >}}
 
-Lorem **markdownum** emicat gestu. Cannis sol pressit ducta. **Est** Idaei,
-tremens ausim se tutaeque, illi ulnis hausit, sed, lumina cutem. Quae avis
-sequens!
-
-    var panel = ram_design;
-    if (backup + system) {
-        file.readPoint = network_native;
-        sidebar_engine_device(cell_tftp_raster,
-                dual_login_paper.adf_vci.application_reader_design(
-                graphicsNvramCdma, lpi_footer_snmp, integer_model));
-    }
-    public_keyboard_docking += error.controller_gibibyte_plug.ip(4,
-            asciiPetaflops, software(supercomputer_compatible_status + 4));
-    dynamic_disk.indexModeLaptop = bufferTftpReality;
-    var export_vlog_sequence = trinitron_flowchart + supercomputer_cluster_rj(
-            -1, toolbar_powerpoint_query, -2 / multiprocessing_impression);
-
-## Locis suis novi cum suoque decidit eadem
-
-Idmoniae ripis, at aves, ali missa adest, ut _et autem_, et ab? Venit spes
-versus finis sermonibus patefecit murum nec est sine oculis. _Ille_ inmota
-macies domoque caelestia cadit tantummodo scelus procul, corde!
-
-1. Dolentem capi parte rostro alvum habentem pudor
-2. Fulgentia sanguine paret
-3. E punior consurgit lentus
-4. Vox hasta eras micantes
-
-## Facibus pharetrae indetonsusque indulsit sic incurrite foliis
-
-Nefandam et prisci palmas! Blandita cutis flectitur montis macies, te _nati_
-Latiis; turbaque inferias. Virginis tibi peracta avidusque facies caper nec, e
-at ademptae, mira.
-
-    direct *= font(inputScareware(sliHome), crossplatform.byte(
-            ppl_encryption.excel_e_rte(integratedModelModifier), timeVirtual,
-            floating_speakers.media_printer(us, yahoo, primaryPhp)));
-    friendly_metal_flatbed(cd, isoPrimaryStorage(reader), dmaMirrored);
-    if (parse_flash_cron.metalGif(1, adServiceDevice, utility)) {
-        adf -= operation_cdma_samba;
-        imapGif.switch += torrent;
-    } else {
-        pmu.disk_captcha = digital_ppp_pci + recursionTransistor(5, dram);
-        ajax_service += grayscalePythonLock;
-        google_scroll_capacity = ftp + engine_dslam_sidebar / tape - 1;
-    }
-    drive_rw = zipTftp;
-    var suffix = software_router_extension.dimm_ddr(-5,
-            kernel_digital_minisite);
-
-Vocavit toto; alas **mitis** maestus in liquidarum ab legi finitimosque dominam
-tibi subitus; Orionis vertitur nota. Currere alti etiam seroque cernitis
-innumeris miraturus amplectique collo sustinet quemque! Litora ante turba?
+## Contact us
+{{< button href="mailto:daniel@shinmem.org" >}}daniel@shinmem.org{{< /button >}}

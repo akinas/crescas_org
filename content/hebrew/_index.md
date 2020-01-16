@@ -32,11 +32,12 @@ type: docs
 
 
 ## איפה להשיג?
-
+{{< hint info >}}
 [באתר "אוצר הספרים"](http://www.sefer.org.il/Product/36163214/%D7%90%D7%95%D7%A8-%D7%94%D7%A9%D7%9D---%D7%A8%D7%91%D7%99-%D7%97%D7%A1%D7%93%D7%90%D7%99-%D7%A7%D7%A8%D7%A7%D7%A9)
-
+{{< /hint >}}
+{{< hint info >}}
 [בחנות "י, ביגעלאייזען ספרים סטאר" בארה"ב](https://www.google.com/maps/place/J+Biegeleisen+Co./@40.633463,-73.982577,15z/data=!4m5!3m4!1s0x0:0x194c7cd3e0df72dc!8m2!3d40.633463!4d-73.982577)
-
+{{< /hint >}}
 ## מהדורת דניאל לוין
 
 * מהדורה המבוססת על כתב יד פירנצה
@@ -98,6 +99,16 @@ Firenze - Biblioteca Medicea Laurenziana Conv.Soppr. 417
 
 {{< /columns >}}
 
-## פרקים לדוגמה
 
-[הורידו פרקי הקדמה ב-PDF](Pages_from_Ohr_haShem_8nov2019_marks.pdf)
+## פרקים לדוגמה
+{{< button href="Pages_from_Ohr_haShem_8nov2019_marks.pdf" >}}הורידו פרקי הקדמה ב-PDF{{< /button >}}
+
+## הרשם לניוזלטר
+
+{{< button href="https://mailchi.mp/5d0d0309dab9/crescas" >}}הרשם לניוזלטר{{< /button >}}
+
+{{< hint info >}}
+## צור הקשר
+
+{{< button href="mailto:daniel@shinmem.org" >}}daniel@shinmem.org{{< /button >}}
+{{< /hint >}}
