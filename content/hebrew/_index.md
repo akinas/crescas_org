@@ -9,19 +9,25 @@ type: docs
 
 
 {{< columns >}}
-## Astris ipse furtiva
 
-Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut
-olivae sensit **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
-modo arsit? Utinam rapta fiducia valuere litora _adicit cursu_, ad facies
+![כריכה קידמית](IMG_5166-scaled.jpg)
+
+<--->
+![עמודימ](IMG_5154-scaled.jpg)
+<--->
+
+![כריכה אחורית](IMG_5167-scaled.jpg)
+
+{{< /columns >}}
+
+{{< columns >}}
+
+![עמודימ](IMG_5151-scaled.jpg)
 
 <--->
 
-## Suis quot vota
+![פורזץ](IMG_5150-scaled.jpg)
 
-Ea _furtique_ risere fratres edidit terrae magis. Colla tam mihi tenebat:
-miseram excita suadent es pecudes iam. Concilio _quam_ velatus posset ait quod
-nunc! Fragosis suae dextra geruntur functus vulgata.
 {{< /columns >}}
 
 
@@ -29,7 +35,7 @@ nunc! Fragosis suae dextra geruntur functus vulgata.
 
 [באתר "אוצר הספרים"](http://www.sefer.org.il/Product/36163214/%D7%90%D7%95%D7%A8-%D7%94%D7%A9%D7%9D---%D7%A8%D7%91%D7%99-%D7%97%D7%A1%D7%93%D7%90%D7%99-%D7%A7%D7%A8%D7%A7%D7%A9)
 
-[בחנות "י, ביגעלאייזען ספרים סטאר" בארה"ב](https://www.google.com/maps/place/J+Biegeleisen+Co./@40.633463,-73.982577,15z/data=!4m5!3m4!1s0x0:0x194c7cd3e0df72dc!8m2!3d40.633463!4d-73.982577?utm_source=ShinMem+-+%D7%A9%D7%9E%D7%A2+%D7%9E%D7%99%D7%A0%D7%94&utm_campaign=904bf67e52-EMAIL_CAMPAIGN_2019_12_22_08_23&utm_medium=email&utm_term=0_3942b1a068-904bf67e52-)
+[בחנות "י, ביגעלאייזען ספרים סטאר" בארה"ב](https://www.google.com/maps/place/J+Biegeleisen+Co./@40.633463,-73.982577,15z/data=!4m5!3m4!1s0x0:0x194c7cd3e0df72dc!8m2!3d40.633463!4d-73.982577)
 
 ## מהדורת דניאל לוין
 
@@ -38,7 +44,7 @@ nunc! Fragosis suae dextra geruntur functus vulgata.
 * ציוני המקורות
 * שינויי נוסחאות
 * כריכה קשה
-* 400 עמודים, 14.6 על 22.5 סמ' 
+* 400 עמודים, 14.6 על 22.5 סמ'
 
 ## על רבינו חסדאי קרשקש וספרו
 
@@ -57,7 +63,7 @@ _-- "ר' חסדאי קרשקש"_
 _-- "דרשת הפסח לר׳ חסדאי קרשקש ומחקרים במשנתו הפילוסופית"_
 
 ### פרופ' אליעזר שביד
-> [ר׳ חסדאי קרשקש היה] פילוסוף מקורי בעל שיעור קומה גדול מאד. מן הבחינה הזאת לא נפל מן הרמב"ם, ואולי גם עלה עליו... 
+> [ר׳ חסדאי קרשקש היה] פילוסוף מקורי בעל שיעור קומה גדול מאד. מן הבחינה הזאת לא נפל מן הרמב"ם, ואולי גם עלה עליו...
 
 _-- דברי מבוא לספר "אור ה'"_
 
@@ -94,4 +100,4 @@ Firenze - Biblioteca Medicea Laurenziana Conv.Soppr. 417
 
 ## פרקים לדוגמה
 
-[הורידו פרקי הקדמה ב-PDF](static/Pages_from_Ohr_haShem_8nov2019_marks.pdf)
+[הורידו פרקי הקדמה ב-PDF](Pages_from_Ohr_haShem_8nov2019_marks.pdf)
