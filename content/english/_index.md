@@ -6,7 +6,7 @@ type: docs
 # _Light of the Lord_ by Rabbi Hasdai Crescas
 
 
-An edition based on the Florence manuscript with an introduction, textual notes, appendices, and an index
+An edition based on the Florence manuscript ([Firenze - Biblioteca Medicea Laurenziana Conv.Soppr. 417](http://beta.nli.org.il/en/manuscripts/NNL_ALEPH000147823/NLI#$FL31864276)) with an introduction, textual notes, appendices, and an index
 
 by Daniel Levin
 

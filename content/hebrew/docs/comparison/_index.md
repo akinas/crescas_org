@@ -10,11 +10,11 @@ weight: 1
 #### מהדורת "אור השם" של הרב שלמה פישר
 {{< columns >}}
 
-![מהדורת הרב פישר](https://i0.wp.com/crescas.org/wp-content/uploads/2019/12/crescas_harav_fisher_cover.jpg?resize=1024%2C576&ssl=1)
+![מהדורת הרב פישר](crescas_harav_fisher_cover.jpg)
 
 <--->
 
-![מהדורת הרב פישר](https://i1.wp.com/crescas.org/wp-content/uploads/2019/12/crescas_harav_fisher_pages.jpg?resize=1024%2C576&ssl=1)
+![מהדורת הרב פישר](crescas_harav_fisher_pages.jpg)
 
 {{< /columns >}}
 
