@@ -4,7 +4,7 @@ googleAnalytics = "UA-4319585-5"
 #title = "My New Hugo Site"
 # hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/theme/hugo-book/
 
-baseURL = 'https://example.com/'
+baseURL = 'https://crescas.org/'
 theme = 'book'
 DefaultContentLanguage = "he"
 
