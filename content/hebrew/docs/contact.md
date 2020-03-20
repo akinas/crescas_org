@@ -1,6 +1,6 @@
 ---
 title: 'צור קשר'
-weight: 10
+weight: 110
 bookToc: false
 ---
 

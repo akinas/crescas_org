@@ -12,23 +12,23 @@ by Daniel Levin
 
 {{< columns >}}
 
-![Front cover](../IMG_5166-scaled.jpg)
+[![Front cover](../IMG_5166-scaled-min.jpg)](../IMG_5166-scaled.jpg)
 
 <--->
-![Pages](../IMG_5154-scaled.jpg)
+[![Pages](../IMG_5154-scaled-min.jpg)](../IMG_5154-scaled.jpg)
 <--->
 
-![Back cover](../IMG_5167-scaled.jpg)
+[![Back cover](../IMG_5167-scaled-min.jpg)](../IMG_5167-scaled.jpg)
 
 {{< /columns >}}
 
 {{< columns >}}
 
-![Pages](../IMG_5151-scaled.jpg)
+[![Pages](../IMG_5151-scaled-min.jpg)](../IMG_5151-scaled.jpg)
 
 <--->
 
-![Endpaper](../IMG_5150-scaled.jpg)
+[![Endpaper](../IMG_5150-scaled-min.jpg)](../IMG_5150-scaled.jpg)
 
 {{< /columns >}}
 
