@@ -20,7 +20,7 @@ type: docs
 [חנות "י, ביגעלאייזען ספרים סטאר" בארה"ב](https://www.google.com/maps/place/J+Biegeleisen+Co./@40.633463,-73.982577,15z/data=!4m5!3m4!1s0x0:0x194c7cd3e0df72dc!8m2!3d40.633463!4d-73.982577)
 {{< /hint >}}
 {{< hint info >}}
-[חנות "גרסה" בירושלים](http://girsabooksjlem.blogspot.com/)
+[חנות "גירסה" בירושלים](http://girsabooksjlem.blogspot.com/)
 {{< /hint >}}
 
 
