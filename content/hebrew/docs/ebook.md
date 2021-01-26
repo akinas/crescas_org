@@ -1,6 +1,7 @@
 ---
 title: 'מהדורה דיגיטלית (ebook)'
 weight: 20
+bookHidden: true
 ---
 
 ## מהדורה דיגיטלית (ebook)

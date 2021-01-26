@@ -40,6 +40,9 @@ by Daniel Levin
 {{< hint info >}}
 [J Biegeleisen Seforim Store in Brooklyn, NY](https://www.google.com/maps/place/J+Biegeleisen+Co./@40.633463,-73.982577,15z/data=!4m5!3m4!1s0x0:0x194c7cd3e0df72dc!8m2!3d40.633463!4d-73.982577)
 {{< /hint >}}
+{{< hint info >}}
+["Girsa" Book Store in Jerusalem](http://girsabooksjlem.blogspot.com/)
+{{< /hint >}}
 
 ## Contact us
 {{< button href="mailto:daniel@shinmem.org" >}}daniel@shinmem.org{{< /button >}}

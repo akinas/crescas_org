@@ -14,16 +14,16 @@ type: docs
 
 
 {{< hint info >}}
-[באתר "אוצר הספרים"](http://www.sefer.org.il/Product/36163214/%D7%90%D7%95%D7%A8-%D7%94%D7%A9%D7%9D---%D7%A8%D7%91%D7%99-%D7%97%D7%A1%D7%93%D7%90%D7%99-%D7%A7%D7%A8%D7%A7%D7%A9)
+[אתר "אוצר הספרים"](http://www.sefer.org.il/Product/36163214/%D7%90%D7%95%D7%A8-%D7%94%D7%A9%D7%9D---%D7%A8%D7%91%D7%99-%D7%97%D7%A1%D7%93%D7%90%D7%99-%D7%A7%D7%A8%D7%A7%D7%A9)
 {{< /hint >}}
 {{< hint info >}}
-[בחנות "י, ביגעלאייזען ספרים סטאר" בארה"ב](https://www.google.com/maps/place/J+Biegeleisen+Co./@40.633463,-73.982577,15z/data=!4m5!3m4!1s0x0:0x194c7cd3e0df72dc!8m2!3d40.633463!4d-73.982577)
+[חנות "י, ביגעלאייזען ספרים סטאר" בארה"ב](https://www.google.com/maps/place/J+Biegeleisen+Co./@40.633463,-73.982577,15z/data=!4m5!3m4!1s0x0:0x194c7cd3e0df72dc!8m2!3d40.633463!4d-73.982577)
+{{< /hint >}}
+{{< hint info >}}
+[חנות "גרסה" בירושלים](http://girsabooksjlem.blogspot.com/)
 {{< /hint >}}
 
-{{< hint >}}
-[ מהדורה דיגיטלית](docs/ebook/)
 
-{{< /hint >}}
 
 ## מהדורת דניאל לוין
 
