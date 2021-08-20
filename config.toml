@@ -28,7 +28,7 @@ disablePathToLower = true
 [languages.he]
   title = 'אור השם'
   languageName = 'Hebrew'
-  languagedirection = 'rtl'
+  languageDirection = 'rtl'
   contentDir = 'content/hebrew'
   weight = 10
 
