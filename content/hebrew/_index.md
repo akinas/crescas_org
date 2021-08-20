@@ -17,36 +17,26 @@ type: docs
 [אתר "אוצר הספרים"](http://www.sefer.org.il/Product/36163214/%D7%90%D7%95%D7%A8-%D7%94%D7%A9%D7%9D---%D7%A8%D7%91%D7%99-%D7%97%D7%A1%D7%93%D7%90%D7%99-%D7%A7%D7%A8%D7%A7%D7%A9)
 {{< /hint >}}
 {{< hint info >}}
-[חנות "י, ביגעלאייזען ספרים סטאר" בארה"ב](https://www.google.com/maps/place/J+Biegeleisen+Co./@40.633463,-73.982577,15z/data=!4m5!3m4!1s0x0:0x194c7cd3e0df72dc!8m2!3d40.633463!4d-73.982577)
+[חנות "ביגעלאייזען ספרים סטאר", ניו יורק, ארה"ב](https://www.google.com/maps/place/J+Biegeleisen+Co./@40.633463,-73.982577,15z/data=!4m5!3m4!1s0x0:0x194c7cd3e0df72dc!8m2!3d40.633463!4d-73.982577)
 {{< /hint >}}
 {{< hint info >}}
-[חנות "גירסה" בירושלים](http://girsabooksjlem.blogspot.com/)
+[חנות "גירסה", ירושלים](http://girsabooksjlem.blogspot.com/)
+{{< /hint >}}
+{{< hint info >}}
+[באתר ובחנות "מינצר ספרים", צומת גוש עציון](https://www.mintzerbooks.com/product/%d7%90%d7%95%d7%a8-%d7%94%d7%a9%d7%9d-%d7%a8%d7%91%d7%99%d7%a0%d7%95-%d7%97%d7%a1%d7%93%d7%90%d7%99-%d7%a7%d7%a8%d7%a9%d7%a7%d7%a9/)
 {{< /hint >}}
 
 
 
 ## מהדורת דניאל לוין
 
-{{< columns >}}
-
-[![כריכה קידמית](IMG_5166-scaled-min.jpg)](IMG_5166-scaled.jpg)
-
-<--->
-[![עמודימ](IMG_5154-scaled-min.jpg)](IMG_5154-scaled.jpg)
-<--->
-
-[![כריכה אחורית](IMG_5167-scaled-min.jpg)](IMG_5167-scaled.jpg)
-
-{{< /columns >}}
+__מהדורה שניה, מתוקנת__
+_([מהרודה ראשונה]({{< relref "/docs/editions/" >}}))_
 
 {{< columns >}}
-
-[![עמודימ](IMG_5151-scaled-min.jpg)](IMG_5151-scaled.jpg)
-
+[![ספרים](2nd_view-min.jpg)](2nd_view.jpg)
 <--->
-
-[![פורזץ](IMG_5150-scaled-min.jpg)](IMG_5150-scaled.jpg)
-
+[![עטיפה קידמית](2nd_open-min.jpg)](2nd_open.jpg)
 {{< /columns >}}
 
 
@@ -122,5 +112,5 @@ Firenze - Biblioteca Medicea Laurenziana Conv.Soppr. 417
 {{< hint info >}}
 ## צור הקשר
 
-{{< button href="mailto:daniel@shinmem.org" >}}daniel@shinmem.org{{< /button >}}
+{{< button href="mailto:daniel@shinmem.org" >}}daniel\@shinmem.org{{< /button >}}
 {{< /hint >}}

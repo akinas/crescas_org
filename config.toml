@@ -77,3 +77,5 @@ disablePathToLower = true
   # See https://gohugo.io/content-management/comments/#configure-disqus
   # Can be overwritten by same param in page frontmatter
   BookDisqus = false
+
+  BookMenuBundle = '/menu'
