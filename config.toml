@@ -26,17 +26,19 @@ disablePathToLower = true
 # And https://gohugo.io/content-management/multilingual/#translation-by-content-directory
 [languages]
 [languages.he]
-  title = 'אור השם'
-  languageName = 'Hebrew'
-  languageDirection = 'rtl'
-  contentDir = 'content/hebrew'
-  weight = 10
+title = 'אור השם'
+languageName = 'Hebrew'
+languagedirection = 'rtl'
+languageDirection = 'rtl'
+LanguageDirection = 'rtl'
+contentDir = 'content/hebrew'
+weight = 10
 
 [languages.en]
-  title = 'Ohr haShem'
-  languageName = 'English'
-  contentDir = 'content/english'
-  weight = 20
+title = 'Ohr haShem'
+languageName = 'English'
+contentDir = 'content/english'
+weight = 20
 
 [params]
   # (Optional, default 6) Set how many table of contents levels to be showed on page.
