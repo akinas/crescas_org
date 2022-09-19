@@ -23,7 +23,7 @@ type: docs
 [חנות "גירסה", ירושלים](http://girsabooksjlem.blogspot.com/)
 {{< /hint >}}
 {{< hint info >}}
-[באתר ובחנות "מינצר ספרים", צומת גוש עציון](https://www.mintzerbooks.com/product/%d7%90%d7%95%d7%a8-%d7%94%d7%a9%d7%9d-%d7%a8%d7%91%d7%99%d7%a0%d7%95-%d7%97%d7%a1%d7%93%d7%90%d7%99-%d7%a7%d7%a8%d7%a9%d7%a7%d7%a9/)
+[באתר ובחנות "מינצר ספרים", צומת גוש עציון](https://mintzerbooks.co.il/product/%d7%90%d7%95%d7%a8-%d7%94%d7%a9%d7%9d-%d7%a8%d7%91%d7%99%d7%a0%d7%95-%d7%97%d7%a1%d7%93%d7%90%d7%99-%d7%a7%d7%a8%d7%a9%d7%a7%d7%a9/)
 {{< /hint >}}
 
 
