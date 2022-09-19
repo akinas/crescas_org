@@ -24,7 +24,7 @@ Edited by Daniel Levin
 ["Girsa" Book Store, Jerusalem](http://girsabooksjlem.blogspot.com/)
 {{< /hint >}}
 {{< hint info >}}
-"Mintzer's Books", [Gush Etzion Junction](https://www.google.com/maps/place/Gush+Etzion+Junction/), and [online](https://www.mintzerbooks.com/en/product/%d7%90%d7%95%d7%a8-%d7%94%d7%a9%d7%9d-%d7%a8%d7%91%d7%99%d7%a0%d7%95-%d7%97%d7%a1%d7%93%d7%90%d7%99-%d7%a7%d7%a8%d7%a9%d7%a7%d7%a9/)
+"Mintzer's Books", [Gush Etzion Junction](https://www.google.com/maps/place/Gush+Etzion+Junction/), and [online](https://mintzerbooks.co.il/product/%d7%90%d7%95%d7%a8-%d7%94%d7%a9%d7%9d-%d7%a8%d7%91%d7%99%d7%a0%d7%95-%d7%97%d7%a1%d7%93%d7%90%d7%99-%d7%a7%d7%a8%d7%a9%d7%a7%d7%a9/)
 {{< /hint >}}
 
 ## Second Corrected Edition
