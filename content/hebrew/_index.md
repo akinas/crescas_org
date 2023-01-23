@@ -12,15 +12,18 @@ type: docs
 
 ## איפה להשיג?
 
+{{< hint warning >}}
 
+[זמין ב-Amazon.com](https://www.amazon.com/dp/9655982092)
+
+[![זמין ב-Amazon.com](amazon_small.png)](https://www.amazon.com/dp/9655982092)
+
+
+
+
+{{< /hint >}}
 {{< hint info >}}
 [אתר "אוצר הספרים"](http://www.sefer.org.il/Product/36163214/%D7%90%D7%95%D7%A8-%D7%94%D7%A9%D7%9D---%D7%A8%D7%91%D7%99-%D7%97%D7%A1%D7%93%D7%90%D7%99-%D7%A7%D7%A8%D7%A7%D7%A9)
-{{< /hint >}}
-{{< hint info >}}
-[חנות "ביגעלאייזען ספרים סטאר", ניו יורק, ארה"ב](https://www.google.com/maps/place/J+Biegeleisen+Co./@40.633463,-73.982577,15z/data=!4m5!3m4!1s0x0:0x194c7cd3e0df72dc!8m2!3d40.633463!4d-73.982577)
-{{< /hint >}}
-{{< hint info >}}
-[חנות "גירסה", ירושלים](http://girsabooksjlem.blogspot.com/)
 {{< /hint >}}
 {{< hint info >}}
 [באתר ובחנות "מינצר ספרים"](https://mintzerbooks.co.il/product/%d7%90%d7%95%d7%a8-%d7%94%d7%a9%d7%9d-%d7%a8%d7%91%d7%99%d7%a0%d7%95-%d7%97%d7%a1%d7%93%d7%90%d7%99-%d7%a7%d7%a8%d7%a9%d7%a7%d7%a9/)
@@ -30,24 +33,33 @@ type: docs
 
 ## מהדורת דניאל לוין
 
-__מהדורה שניה, מתוקנת__
-_([מהרודה ראשונה]({{< relref "/docs/editions/" >}}))_
+__מהדורה שלישית, מתוקנת__
+_([מהרודות קודמות]({{< relref "/docs/editions/" >}}))_
 
 {{< columns >}}
-[![ספרים](2nd_view-min.jpg)](2nd_view.jpg)
+[![עטיפה](3rd_outside_thumb.jpg)](3rd_outside_full.jpg)
 <--->
-[![עטיפה קידמית](2nd_open-min.jpg)](2nd_open.jpg)
+[![עמודי פנים](3rd_inside_thumb.jpg)](3rd_inside_full.jpg)
 {{< /columns >}}
 
 
 
 
-* מהדורה המבוססת על כתב יד פירנצה
+* מבוססת על כתב יד פירנצה
 * מפתחות מפורטים
 * ציוני המקורות
 * שינויי נוסחאות
-* כריכה קשה
-* 400 עמודים, 14.6 על 22.5 סמ'
+* כריכה רכה
+* 393 עמודים
+* 16 על 24 סמ'
+* ISBN: 978-965-598-209-1
+
+{{< hint info >}}
+## עמודים מהספר
+
+{{< button href="Pages_from_Ohr_haShem_8nov2019_marks.pdf" >}}הורידו עמודים מהספר בפורמט PDF{{< /button >}}
+
+{{< /hint >}}
 
 ## על רבינו חסדאי קרשקש וספרו
 
@@ -102,15 +114,7 @@ Firenze - Biblioteca Medicea Laurenziana Conv.Soppr. 417
 {{< /columns >}}
 
 
-## פרקים לדוגמה
-{{< button href="Pages_from_Ohr_haShem_8nov2019_marks.pdf" >}}הורידו פרקי הקדמה ב-PDF{{< /button >}}
 
-## הרשם לניוזלטר
-
-{{< button href="https://mailchi.mp/5d0d0309dab9/crescas" >}}הרשם לניוזלטר{{< /button >}}
-
-{{< hint info >}}
 ## צור הקשר
 
 {{< button href="mailto:daniel@shinmem.org" >}}daniel\@shinmem.org{{< /button >}}
-{{< /hint >}}
