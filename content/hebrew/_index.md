@@ -18,7 +18,19 @@ type: docs
 
 [![זמין ב-Amazon.com](amazon_small.png)](https://www.amazon.com/dp/9655982092)
 
+או בזירות מסחד של Amazon במדינות אחרות
 
+[UK](https://www.amazon.co.uk/dp/9655982092)
+&nbsp; &gt; [DE](https://www.amazon.de/dp/9655982092)
+&nbsp; &gt; [FR](https://www.amazon.fr/dp/9655982092)
+&nbsp; &gt; [ES](https://www.amazon.es/dp/9655982092)
+&nbsp; &gt; [IT](https://www.amazon.it/dp/9655982092)
+&nbsp; &gt; [NL](https://www.amazon.nl/dp/9655982092)
+&nbsp; &gt; [PL](https://www.amazon.pl/dp/9655982092)
+&nbsp; &gt; [SE](https://www.amazon.se/dp/9655982092)
+&nbsp; &gt; [JP](https://www.amazon.co.jp/dp/9655982092)
+&nbsp; &gt; [CA](https://www.amazon.ca/dp/9655982092)
+&nbsp; &gt; [AU](https://www.amazon.com.au/dp/9655982092) &lt;
 
 
 {{< /hint >}}
