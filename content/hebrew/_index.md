@@ -18,7 +18,7 @@ type: docs
 
 [![זמין ב-Amazon.com](amazon_small.png)](https://www.amazon.com/dp/9655982092)
 
-או בזירות מסחד של Amazon במדינות אחרות
+או בזירות מסחר של Amazon במדינות אחרות
 
 [UK](https://www.amazon.co.uk/dp/9655982092)
 &nbsp; &gt; [DE](https://www.amazon.de/dp/9655982092)
