@@ -46,7 +46,7 @@ type: docs
 ## מהדורת דניאל לוין
 
 __מהדורה שלישית, מתוקנת__
-_([מהרודות קודמות]({{< relref "/docs/editions/" >}}))_
+_([מהדורות קודמות]({{< relref "/docs/editions/" >}}))_
 
 {{< columns >}}
 [![עטיפה](3rd_outside_thumb.jpg)](3rd_outside_full.jpg)
