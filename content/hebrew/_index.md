@@ -109,6 +109,6 @@ _-- "עמודי המחשבה הישראלית"_
 
 
 
-## צור הקשר
+## צור קשר
 
 {{< button href="mailto:daniel@shinmem.org" >}}daniel\@shinmem.org{{< /button >}}
