@@ -17,8 +17,19 @@ Whether you are a seasoned scholar or new to the work of Hasdai Crescas, this ne
 
 Edited by Daniel Levin.
 
+{{< hint danger >}}
+
+### **New!** [*Metaphysical Treatise* by Rabbi Moshe ben Yosef Halevi of Seville]({{< relref "/docs/library/maamar" >}})
 
 
+
+**First book in a new series** [Rabbi Hasdai Crescas’s Library: An Exploration of Medieval Jewish Thought]({{< relref "/docs/library/" >}})
+
+{{< /hint >}}
+
+
+
+## _Light of the Lord_, Third Corrected Edition
 
 ## Where to buy?
 
@@ -26,7 +37,7 @@ Edited by Daniel Levin.
 
 [Available at Amazon.com](https://www.amazon.com/dp/9655982092)
 
-[![Availabel at Amazon.com](../amazon_small.png)](https://www.amazon.com/dp/9655982092)
+[![Availabel at Amazon.com](https://res.cloudinary.com/dyj4i2vhr/image/upload/c_scale,h_35/v1686674375/amazon_small_jpucbt.png)](https://www.amazon.com/dp/9655982092)
 
 Other Amazon marketplaces:
 
@@ -44,15 +55,6 @@ Other Amazon marketplaces:
 
 {{< /hint >}}
 
-{{< hint info >}}
-["Otzar haSeforim" website (Hebrew)](http://www.sefer.org.il/Product/36163214/%D7%90%D7%95%D7%A8-%D7%94%D7%A9%D7%9D---%D7%A8%D7%91%D7%99-%D7%97%D7%A1%D7%93%D7%90%D7%99-%D7%A7%D7%A8%D7%A7%D7%A9)
-{{< /hint >}}
-
-{{< hint info >}}
-["Mintzer's Books" store and website](https://mintzerbooks.co.il/product/%d7%90%d7%95%d7%a8-%d7%94%d7%a9%d7%9d-%d7%a8%d7%91%d7%99%d7%a0%d7%95-%d7%97%d7%a1%d7%93%d7%90%d7%99-%d7%a7%d7%a8%d7%a9%d7%a7%d7%a9/)
-{{< /hint >}}
-
-## Third Corrected Edition
 
 {{< columns >}}
 [![Book view](../3rd_outside_thumb.jpg)](../3rd_outside_full.jpg)
